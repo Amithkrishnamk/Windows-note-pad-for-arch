@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Notepad</title>
+  <!-- Page with a folded top-right corner. -->
+  <path d="M6 3 H44 L57 15 V58 H6 Z" fill="#ffffff" stroke="#7f8c9b" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Folded corner flap. -->
+  <path d="M44 3 V15 H57 Z" fill="#dbe6f2" stroke="#a5aeb8" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Title bar. -->
+  <rect x="10.5" y="4" width="31" height="3" rx="1.5" fill="#2f6fb3"/>
+  <!-- Ruled text lines. -->
+  <rect x="15" y="23" width="34" height="2" fill="#7f8c9b"/>
+  <rect x="15" y="30" width="31" height="2" fill="#7f8c9b"/>
+  <rect x="15" y="37" width="35" height="2" fill="#7f8c9b"/>
+  <rect x="15" y="44" width="24" height="2" fill="#7f8c9b"/>
+</svg>
